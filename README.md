@@ -1,3 +1,3 @@
 # MyGists
 
-I will eventually put a link here to all of my git gists.
+Check out my [gists](https://gist.github.com/btschwartz12)!
